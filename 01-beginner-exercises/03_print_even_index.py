@@ -9,6 +9,9 @@ def print_even_index_1():
     for i in range(0,len(word),2):
         print(word[i])
 
+# attempting the problem with string slicing
+def print_even_index_2():
+    pass
 
 def main():
     print_even_index_1()
