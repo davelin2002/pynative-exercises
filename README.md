@@ -6,7 +6,7 @@ Free Coding Exercises for Python Developers. Exercises cover Python Basics, Data
 
 This page contains 19 topic specific exercises with 280+ coding questions to practice.
 
-Whats included in these Python Exercises?
+## Whats included in these Python Exercises?
 
 - All exercises are tested on Python 3.
 
