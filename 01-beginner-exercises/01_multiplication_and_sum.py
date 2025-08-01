@@ -16,9 +16,7 @@ def main():
     result = sum_or_product(20,30)
     print(f"This result is {result}")
     result = sum_or_product(40,30)
-    print(f"This result is {result}")
-        
-    
+    print(f"This result is {result}")   
 
 if __name__ == "__main__":
     main()
