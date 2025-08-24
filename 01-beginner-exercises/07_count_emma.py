@@ -1,5 +1,5 @@
 # Exercise 7: Find the number of occurrences of a substring in a string
-# Write a Python code to find how often the substring “Emma” appears in the given string.
+# Write code to find how often the substring “Emma” appears in the given string.
 
 # simplest implementation using the string method
 # simply using the count method in order to count the number of times the word appears
